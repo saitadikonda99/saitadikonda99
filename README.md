@@ -13,12 +13,12 @@
 <a href="https://instagram.com/_sai.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sai.you" height="30" width="40" /></a>
 </p>  
  
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=saitadikonda99&theme=radical&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=saitadikonda99&theme=radical&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitadikonda99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
    
    <img align="down" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-<img   src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+<img  align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
 <img   src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 <img align="down" src="https://streak-stats.demolab.com/?user=saitadikonda99&theme=kusuma05)](https://git.io/streak-stats"/>
