@@ -1,8 +1,10 @@
-### Hola, I'm Tadikonda Sai Manikanta 👋
-
+### Hola, I'm Tadikonda Sai Manikanta 👋  <p align="right" > <img src="https://komarev.com/ghpvc/?username=saitadikonda99&label=Profile%20views&color=0e75b6&style=flat" alt="saitadikonda99" /> </p>
 - 🔭📚 First year undergrad
 - 🌱 I’m currently learning c and html
-- 👯 I’m looking to collaborate on  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=twitter)](https://twitter.com/sai_tadikonda_)
+- 👯 I’m looking to collaborate on   <a href="https://twitter.com/sai_tadikonda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai_tadikonda_" height="30" width="40" /></a>
+<a href="https://instagram.com/_sai.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sai.you" height="30" width="40" /></a>
+</p>
+
 
 - 💬 Ask me about Any tech related stuff!
 - 📫 How to reach me: <a href = "mailto: saiitadikonda7@gmail.com">Send Email</a>
