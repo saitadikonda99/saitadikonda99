@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=twitter)](https://twitter.com/sai_tadikonda_)
 
 - 💬 Ask me about Any tech related stuff!
-- 📫 How to reach me: [E-mail](@saiitadikonda7@gmail.com)
+- 📫 How to reach me: <a href = "mailto: saiitadikonda7@gmail.com">Send Email</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours on coding 💻
 
