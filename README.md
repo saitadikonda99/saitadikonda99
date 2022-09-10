@@ -15,10 +15,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitadikonda99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
    
-  <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<img  align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-<img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<img src="https://streak-stats.demolab.com/?user=saitadikonda99&theme=kusuma05)](https://git.io/streak-stats"/>
+<img align="down" src="https://streak-stats.demolab.com/?user=saitadikonda99&theme=kusuma05)](https://git.io/streak-stats"/>
