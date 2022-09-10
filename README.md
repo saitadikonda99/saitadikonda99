@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning c and html
 - 👯 I’m looking to collaborate on  [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=twitter)](https://twitter.com/sai_tadikonda_)
 
-- 🤔 I’m looking for help with data structures
 - 💬 Ask me about Any tech related stuff!
-- 📫 How to reach me: twitter
-- 😄 Pronouns: sai
+- 📫 How to reach me:  
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours on coding 💻
 
 <img  src="https://github-readme-stats.vercel.app/api?username=saitadikonda99&theme=radical&show_icons=true"/>
