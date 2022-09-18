@@ -1,4 +1,4 @@
- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm [Tadikonda Sai Manikanta!](https://bio.link/saitadikonda99) 
+ ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm [ Sai Tadikonda!](https://bio.link/saitadikonda99) 
 
 - 🔭📚 First year undergrad
 - 🌱 I’m currently learning c and html
