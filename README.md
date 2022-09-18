@@ -4,7 +4,7 @@
 - 💬 Ask me about Any tech related stuff!
 - 📫 How to reach me: <a href = "mailto: saiitadikonda7@gmail.com">Send Email</a>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Every day I spend almost 8-10 hours on coding 💻
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
