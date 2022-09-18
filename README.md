@@ -1,4 +1,5 @@
-### Hola, I'm Tadikonda Sai Manikanta 👋  <p align="right" > <img src="https://komarev.com/ghpvc/?username=saitadikonda99&label=Profile%20views&color=0e75b6&style=flat" alt="saitadikonda99" /> </p>
+ ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm [Tadikonda Sai Manikanta!](https://bio.link/saitadikonda99) 
+
 - 🔭📚 First year undergrad
 - 🌱 I’m currently learning c and html
 - 💬 Ask me about Any tech related stuff!
