@@ -4,7 +4,7 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=saitadikonda99&label=Profile%20views&color=0e75b6&style=flat" alt="saitadikonda99" /> </p>
      
 - 🔭📚 First year undergrad
-- 🌱 I’m currently learning c and html
+- 🌱 I’m currently learning c 
 - 💬 Ask me about Any tech related stuff!
 - 📫 How to reach me: <a href = "mailto: saiitadikonda7@gmail.com">Send Email</a>
 - 😄 Pronouns:He/His.
