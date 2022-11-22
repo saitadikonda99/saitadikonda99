@@ -15,9 +15,11 @@
 <a href="https://instagram.com/_sai.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sai.you" height="30" width="40" /></a>
 </p>  
  
- <img src="https://github-readme-stats.vercel.app/api?username=saitadikonda99&theme=radical&show_icons=true"/> <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=saitadikonda99&" alt="saitadikonda99 "  /></p>
-
+  
+  
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitadikonda99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=saitadikonda99&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
       
 <h3   >   Languages and Tools:</h3>
 
