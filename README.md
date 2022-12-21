@@ -8,13 +8,9 @@
 - 📫 How to reach me: <a href = "mailto: saiitadikonda7@gmail.com">Send Email</a>
 - 😄 Pronouns:He/His.
 
-<h3 align="left">Connect with me:</h3>
+### [Connect with me 💬](https://linktr.ee/saitadikonda)
 
-<p align="left">
-<a href="https://twitter.com/sai_tadikonda_" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai_tadikonda_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tadikondasaimanikanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadikondasaimanikanta" height="30" width="40" /></a>
-<a href="https://instagram.com/_sai.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sai.you" height="30" width="40" /></a>
-</p>  
+
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=saitadikonda99&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
