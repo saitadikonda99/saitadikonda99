@@ -2,12 +2,7 @@
   
  <img align="right"  src="https://komarev.com/ghpvc/?username=saitadikonda99&label=Visitors%20&color=0e75b6&style=flat" alt="saitadikonda99" /> </p>
      
-- 🔭📚 First year undergrad 
-- 🌱 Open source enthusiast
-- 💬 Ask me about Any tech related stuff!
-- 📫 How to reach me: <a href = "mailto: saiitadikonda7@gmail.com">Send Email</a>
-- 😄 Pronouns:He/His.
-
+ 
 ### [Connect with me 💬](https://linktr.ee/saitadikonda)
 
 
