@@ -7,7 +7,7 @@
 
 
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=saitadikonda99&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=saitadikonda99&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
  
 
