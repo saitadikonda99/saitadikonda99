@@ -1,6 +1,6 @@
  ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">  I'm  Sai Tadikonda!
   
- <img align="right"  src="https://komarev.com/ghpvc/?username=saitadikonda99&label=Visitors%20&color=0e75b6&style=flat" alt="saitadikonda99" /> </p>
+ <img align="right"  src="https://komarev.com/ghpvc/?username=saitadikonda99&label=Visitors%20&color=blue&style=flat" alt="saitadikonda99" /> </p>
      
  
 ### [Connect with me 💬](https://linktr.ee/saitadikonda)
