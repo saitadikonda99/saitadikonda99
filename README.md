@@ -7,7 +7,7 @@
 
 
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=saitadikonda99&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=saitadikonda99&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/saitadikonda99)
  
  ![sai manikanta tadikonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitadikonda99&show_icons=true)
 
