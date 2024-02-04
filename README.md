@@ -11,6 +11,6 @@
  
  ![sai manikanta tadikonda's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitadikonda99&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitadikonda99&layout=compact)](https://github.com/saitadikonda99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saitadikonda99&layout=compact)](https://github.com/saitadikonda99)
  
  
